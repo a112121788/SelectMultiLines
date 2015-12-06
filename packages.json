@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "packages": [
+    {
+      "name": "SelectMultiLines",
+      "description": "SelectMultiLines by selected text",
+      "author": "a112121788",
+      "homepage": "https://github.com/a112121788/SelectMultiLines",
+      "last_modified": "2015-12-06 09:59:00",
+      "readme": "https://raw.githubusercontent.com/a112121788/SelectMultiLines/master/README.md",
+      "labels": ["select multi lines"],
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0.0",
+            "url": "https://nodeload.github.com/a112121788/SelectMultiLines/zip/1.0.0"
+          }
+        ]
+      }
+    }
+  ]
+}
