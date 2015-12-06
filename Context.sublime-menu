@@ -1,0 +1,7 @@
+[
+    { 
+        "id": "select_multi_lines",
+        "command": "select_multi_lines",
+        "caption": "SelectMultiLines"
+    }
+]
