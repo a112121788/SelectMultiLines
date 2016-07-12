@@ -2,7 +2,7 @@
 
 free for st3:
 	
-	SelectMultiLines by selected text.
+	Select MultiLines by selected text to delete these lines.
 Usage: 
 	
 	Press [Ctrl+D].
